@@ -1,81 +1,171 @@
 <div align="center">
 
-# Nishu Dahiya
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:115E59,100:38BDF8&height=185&section=header&text=Nishu%20Dahiya&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=IIT%20Madras%20%7C%20Software%20%7C%20ML%20%7C%20Systems&descSize=16&descAlignY=59&animation=fadeIn" alt="Nishu Dahiya — IIT Madras" />
 
-**Undergraduate Student · IIT Madras**  
-BS in Chemistry · BS in Data Science and Applications
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems;Exploring+ML+with+real-world+data;Learning+how+systems+work+under+the+surface" alt="Animated intro" />
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/nishu-dahiya-33b7a8263/) · [Personal Email](mailto:dahiya927dahiya@gmail.com) · [IIT Madras Email](mailto:cy25b013@smail.iitm.ac.in)
+<p>
+  <a href="https://github.com/nixhudxhiya927"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nishu-dahiya-33b7a8263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dahiya927dahiya@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Personal email"/></a>
+  <a href="mailto:cy25b013@smail.iitm.ac.in"><img src="https://img.shields.io/badge/IIT_Madras_Email-Contact-8B0000?style=flat-square&logo=maildotru&logoColor=white" alt="College email"/></a>
+</p>
 
 </div>
 
 ---
 
-## About
+## A little about me
 
-I'm an undergraduate at IIT Madras interested in software engineering, applied machine learning, and computer systems.
+I'm an undergraduate at **IIT Madras**, pursuing BS programmes in **Chemistry** and **Data Science and Applications**.
 
-I build full-stack applications, work with real-world tabular data, and enjoy understanding how the pieces fit together: APIs, databases, authentication, networking, and model evaluation.
+I like building things at the intersection of software and data: useful web applications, backend workflows, networked tools, and machine-learning experiments. I'm especially interested in understanding the engineering behind the interface — APIs, databases, networks, and why a model behaves the way it does.
 
-## Selected Work
+## What I work on
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Software
+
+Full-stack applications, API design, authentication, relational data, and workflow automation.
+
+</td>
+<td width="33%" valign="top">
+
+### Machine learning
+
+Tabular data, feature engineering, model validation, gradient-boosted trees, and ensembling.
+
+</td>
+<td width="33%" valign="top">
+
+### Systems
+
+Linux, networking, local-first tools, real-time communication, and understanding the stack below the app.
+
+</td>
+</tr>
+</table>
+
+## Tools I use
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,php&theme=light" alt="Python, C++, JavaScript, TypeScript, PHP"/>
+</p>
+
+**Web and backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,fastapi&theme=light" alt="React, Next.js, Vite, Tailwind, Node.js, Express, FastAPI"/>
+</p>
+
+**Data, databases and development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma,git,github,linux&theme=light" alt="PostgreSQL, MySQL, SQLite, Supabase, Prisma, Git, GitHub, Linux"/>
+</p>
+
+**ML stack:** NumPy · pandas · SciPy · scikit-learn · LightGBM · XGBoost · CatBoost  
+**Other tools:** Databricks · Vercel · REST APIs · WebSockets · WebRTC
+
+## Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ChemSAGE](https://github.com/nixhudxhiya927/ChemSage)
+
+A student portal for the IIT Madras Chemistry Department — approval-based access, real-time messaging, study groups, academic resources, exam archives, scheduling, and tasks.
+
+<sub>Next.js · Supabase · PostgreSQL · Tailwind CSS</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### Campus Bill Automation
-**React · TypeScript · Express · PostgreSQL · Prisma**
 
-A Software Guild team project to streamline campus reimbursement workflows. Includes draft and submission flows, administrative approvals and rejections, payment-status tracking, and reusable payment details. The repository is private.
+A Software Guild team project to streamline reimbursement drafts, submissions, administrative approvals, and payment tracking. The repository is private.
 
-### [ChemSAGE — Chemistry Department Portal](https://github.com/nixhudxhiya927/ChemSage)
-**Next.js · Tailwind CSS · Supabase · PostgreSQL**
+<sub>React · TypeScript · Express · PostgreSQL · Prisma</sub>
 
-A department-focused student portal with approval-based registration, real-time messaging, study groups, academic resource sharing, past exam papers, class scheduling, and task management.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Local LAN Messenger](https://github.com/nixhudxhiya927/Local-LAN-Messenger)
-**Python · FastAPI · WebSockets · WebRTC · SQLite**
 
-A local-network messaging app designed for use when internet access is unavailable. Supports real-time chat, file sharing, and voice/video calls, with LAN address detection and HTTPS startup scripts.
+A local-network messenger for when internet access is unavailable, with real-time chat, file sharing, and voice/video calls.
 
-### [NovaNews — AI News Summarizer](https://github.com/nixhudxhiya927/Nishu_Nova_News)
-**React · Node.js · Express · Supabase · NewsAPI · Gemma**
+<sub>Python · FastAPI · WebSockets · WebRTC · SQLite</sub>
 
-A full-stack news reader that fetches headlines, filters articles, generates concise AI summaries, and lets authenticated users save articles to a personal library.
+</td>
+<td width="50%" valign="top">
 
-### [Workspace Rental Price Tier Prediction](https://www.kaggle.com/competitions/167481)
-**Python · pandas · scikit-learn · LightGBM · XGBoost · CatBoost**
+### [NovaNews](https://github.com/nixhudxhiya927/Nishu_Nova_News)
 
-An ongoing Kaggle classification project using a dataset of approximately 280K training rows to predict four workspace price tiers. Work includes feature engineering, stratified validation, model comparison, and probability-based ensembling.
+A news reader that fetches headlines, filters articles, generates concise Gemma summaries, and saves bookmarks for signed-in users.
 
-**Best visible submission score:** 0.71731 Macro F1
+<sub>React · Express · Supabase · NewsAPI · Gemma</sub>
 
-### [BuildSpace — Developer Productivity Platform](https://pentagon-sdc-buildspace-hackathon.vercel.app/)
-**React · Vite · Tailwind CSS · Supabase · Zustand**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A team-built platform for developer collaboration and workflow tracking. Won **3rd place in the Web Track** at SDC² HackWeek '26.
+### [BuildSpace](https://pentagon-sdc-buildspace-hackathon.vercel.app/)
 
-## Hackathons & Competition Work
+A developer productivity and collaboration platform built with a teammate.
 
-- **SDC² HackWeek '26 — Web Track:** 3rd place with BuildSpace. Also participated in the separate IPL outcome-prediction ML Track; placement was not announced.
-- **Inter-Guild Buildathon 2026, IIT Madras × DronaHQ:** Top 5 finalist with Pigeon SDR, an AI-assisted sales workflow. My work focused on the frontend and backend.
-- **MindShift Analytics × AI & Software Systems Guild — Haul-Mark Challenge:** Top 10, as reported; predicted dumper fuel consumption from telemetry and operational data and submitted CSV predictions.
-- **BharatBricks 2026 — Databricks Edition:** Main contributor to AI endpoint integration for Krishi Credit, a prototype that explained and summarized predicted farmer creditworthiness.
+<sub>React · Vite · Tailwind CSS · Supabase · Zustand</sub>
 
-## Technical Skills
+</td>
+<td width="50%" valign="top">
 
-**Languages:** Python, JavaScript, TypeScript, C++, PHP, SQL
+### [Workspace Price Tier Prediction](https://www.kaggle.com/competitions/167481)
 
-**Web Development:** React, Next.js, Vite, Tailwind CSS, Node.js, Express, FastAPI, REST APIs
+An ongoing four-class prediction task using workspace listing data. Experimenting with feature engineering, validation, boosted trees, and probability ensembling.
 
-**Machine Learning & Data:** NumPy, pandas, SciPy, scikit-learn, LightGBM, XGBoost, CatBoost, feature engineering, cross-validation, stratified validation, ensemble learning, Macro F1 evaluation
+<sub>Python · scikit-learn · LightGBM · XGBoost · CatBoost</sub><br/>
+**Best visible submission:** 0.71731 Macro F1
 
-**Databases & Authentication:** PostgreSQL, MySQL, SQLite, Supabase, Prisma, Google OAuth, Row Level Security
+</td>
+</tr>
+</table>
 
-**Systems & Tools:** Linux, Git, Vercel, Databricks, WebSockets, WebRTC
+## A few milestones
 
-## Campus Involvement
+- **3rd place — SDC² HackWeek '26, Web Track:** BuildSpace. The separate IPL prediction ML Track had no confirmed placement.
+- **Top 5 finalist — Inter-Guild Buildathon 2026:** Pigeon SDR, an AI-assisted sales workflow; I worked on the frontend and backend.
+- **Top 10 — Haul-Mark Challenge:** dumper fuel prediction using telemetry and operational data; result as reported.
+- **Krishi Credit — BharatBricks 2026:** contributed the AI endpoint integration for summarising and explaining predicted farmer creditworthiness.
 
-- **Class Representative, Chemistry Department:** Represent a 28-student batch and help coordinate academic communication and departmental guest lectures.
-- **Software Guild, IIT Madras:** Collaborate on campus-focused software projects.
-- **Saathi Mentor:** Mentor four first-year students on academic planning and campus life.
+## Currently exploring
 
----
+- Better validation and ensembling for tabular ML.
+- Backend architecture, API design, and database modelling.
+- Linux, networking, and the systems underneath everyday applications.
 
-For project details, please see the linked repositories and competition pages.
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nixhudxhiya927&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" height="150" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixhudxhiya927&layout=compact&hide_border=true&theme=transparent" height="150" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nixhudxhiya927/nixhudxhiya927/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nixhudxhiya927/nixhudxhiya927/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/nixhudxhiya927/nixhudxhiya927/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<sub>The contribution animation is generated by a scheduled GitHub Action. Stats and third-party visuals may take a little time to refresh.</sub>
